@@ -5,5 +5,5 @@
 code.zip
 - 책에 나오는 코드들을 chapter 별로 정리해 두었다.
 
-파이썬 프로그래밍 길라잡이 Errata.pdf
+errata.pdf
 - 교재 (22년 2월25일 초판1쇄 기준) 정오표
